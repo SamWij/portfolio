@@ -1,0 +1,203 @@
+{
+  "hero": {
+    "imgUrl": "/images/picofme.png",
+    "heading": "Hi! I’m Sam",
+    "typingText": [
+      "I create digital products",
+      1800
+    ],
+    "description": "I'm a Digital Product Manager who doesn't just deliver software – my passion is to use technology to solve real world problems.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "/"
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "/"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/diversity_awards.jpeg",
+    "miniTitle": "About Me",
+    "title": "TALK TO ME ABOUT <span>DIGITAL</span> DONE RIGHT",
+    "description": "I help businesses scope, design and deliver impactful digital products and projects. I manage technology teams and facilitate effective communication that ensures visibility to all stakeholders using Agile and human centred design principles and frameworks. I have the ability to design solutions in ambiguous environments.",
+    "funfacts": [
+      {
+        "title": "Product Management",
+        "number": 4
+      },
+      {
+        "title": "Technology Experience",
+        "number": 9
+      },
+      {
+        "title": "Team Leadership",
+        "number": 7
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "PROJECTS"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/healthcare.jpg",
+        "title": "Launching a new product",
+        "subTitle": "Research, Design, Delivery, Beta Testing",
+        "details": {
+          "title": "Idea to launch of a new digital product connecting healthcare workers to recruiters.",
+          "description": "I conceptualized and led the launch of a beta digital product for healthcare workers migrating to the US and UK. At a design agency, I headed a UX and Dev team, overseeing market research, requirement gathering, design iterations, development, testing, and final deployment, ensuring comprehensive product delivery. ",
+          "type": "New Product",
+          "Methods": "Concept Testing, Contextual Enquiry, Agile Scrum",
+          "platform": "Agility",
+          "product": "OET Career"
+        }
+      },
+      {
+        "thumbUrl": "/images/vmch.jpg",
+        "title": "Customer Experience",
+        "subTitle": "Research, Design, Delivery",
+        "details": {
+          "title": "Reducing Enquiry to Client times in Aged Care",
+          "description": "Conducted workshops and research to determine friction points in the Enquiry to Assessement an",
+          "type": "Design, Agile Delivery, Launch",
+          "Methods": "contextual enquiry, customer interviews, user journey mapping, system design, delivery",
+          "platform": "Microsoft Dynamics Sales",
+          "product": "VMCH Aged Care services enquiry"
+        }
+      },
+      {
+        "thumbUrl": "/images/askizzy.jpg",
+        "title": "Product Discovery",
+        "subTitle": "Ideation, Prototyping",
+        "details": {
+          "title": "Designing a new product to support people experiencing family and domestic violence",
+          "description": "Conducted contextual research with case workers, victim survivors, and information seekers, and synthesized the findings. Leveraged these insights in a rapid Google sprint to prototype a solution. Collaborated with the e-commissioner for workshops on technology-facilitated abuse. Secured a $200,000 grant from Vodafone Foundation to develop an MVP.",
+          "type": "Human Centred Design",
+          "Methods": "Contextual enquiry, Co-design,  Prototype Testing",
+          "platform": "React",
+          "product": "Ask Izzy"
+        }
+      },
+      {
+        "thumbUrl": "/images/aifdv.jpg",
+        "title": "Shipping New Features",
+        "subTitle": "Co-design, App Design, Digital Delivery",
+        "details": {
+          "title": "",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Design, Delivery",
+          "Methods": "UX Design, Agile Delivery, Launch",
+          "platform": "React",
+          "product": "Ask Izzy"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "My <span>services</span>"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/discovery.jpg",
+        "title": "Product Discovery",
+        "subTitle": "Assess whether your idea is both valuable to the customer and technically viable.",
+        "icon": "bi-patch-question-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/design.jpg",
+        "title": "Product Design",
+        "subTitle": "Conduct research and analyze customer feedback to guide product direction.",
+        "icon": "bi:palette",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/delivery.jpg",
+        "title": "Digital Delivery",
+        "subTitle": "Develop and launch top-quality tech solutions that benefit both consumers and businesses.",
+        "icon": "bi-truck",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/learn.jpg",
+        "title": "Learn and iterate",
+        "subTitle": "Conduct user research and analysis to understand product interactions and pinpoint improvements.",
+        "icon": "bi-graph-up-arrow",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Product Manager - Innovation",
+        "company": "OET | CONTRACT",
+        "duration": "DEC 2022 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "Research, validation and launch of a greenfields product",
+        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+      },
+      {
+        "designation": "Digital Delivery Manager",
+        "company": "BANK FIRST | CONTRACT",
+        "duration": "JAN 2019 - CONTRACT",
+        "jobType": "Full time",
+        "companyTitle": "Mortgage product ractionalisation, and review of digital experience platform",
+        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+      },
+      {
+        "designation": "Digital Lead",
+        "company": "VMCH | CONTRACT",
+        "duration": "JAN 2019 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "Customer experience review of Enquiry to Client customer journey",
+        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+      },
+      {
+        "designation": "Business Solutions Manager",
+        "company": "SAVE THE CHILDREN ",
+        "duration": "JAN 2019 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": " ",
+        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+      },
+      {
+        "designation": "SENIOR PRODUCT MANAGER",
+        "company": "INFOXCHANGE",
+        "duration": "JAN 2019 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": " ",
+        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Chat to me about the problem you're trying to solve"
+    },
+    "contactImg": "/images/contactme.jpg",
+    "contactInfo": [
+      {
+        "title": "E-mail me",
+        "email": "sam@samwij.com"
+      }
+    ]
+  }
+}

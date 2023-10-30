@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;900&family=Tilt+Neon&display=swap');
+
+$px-font: 'Montserrat', sans-serif !default;
+
+// Theme Variable
+
+$px-theme: #BF365A;
+$px-theme-rgb: 7, 7, 85; // RGB value of #0CA855
+$px-white: #fff;
+$px-black: #2166A3;
+
+$px-text: #F25D27;
+$px-heading: #fff;
+
+
+// $px-theme: #0CA855;
+// $px-theme-rgb: 7, 126, 200;
+// $px-white: #fff;
+// $px-black: #b5e6cc;
+
+// $px-text: #b5e6cc;
+// $px-heading: #fff;
+
+// Breakpoints
+$px-media-xsm: 567px !default;
+$px-media-sm: 767px !default;
+$px-media-md: 991px !default;
+$px-media-lg: 1200px !default;
